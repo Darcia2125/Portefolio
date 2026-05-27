@@ -12,7 +12,7 @@ const experiences = [
       "Reporting mensuel & Analyse de la marge",
       "Contrôle des stocks & Analyse des écarts budgétaires",
       "Réconciliation des comptes intra-groupe",
-      "Analyse financière industrielle"
+      "Analyse industrielle"
     ]
   },
   {
@@ -32,7 +32,7 @@ const experiences = [
     period: "Février 2022 – Mars 2022",
     location: "Antananarivo",
     missions: [
-      "Assistance administrative et saisie de données",
+      "saisie et revue des écritures comptables",
       "Support aux équipes opérationnelles"
     ]
   },
@@ -41,7 +41,7 @@ const experiences = [
     role: "Stage d'observation",
     period: "Octobre 2019",
     location: "Antananarivo",
-    missions: ["Immersion en milieu professionnel digital"]
+    missions: ["Immersion dans le métier de contrôleur de gestion"]
   },
   {
     company: "ADES FIANARANTSOA",

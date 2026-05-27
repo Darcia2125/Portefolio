@@ -29,7 +29,7 @@ export const About: React.FC = () => {
                 Spécialiste de la finance avec une solide expertise en contrôle de gestion, je transforme les chiffres en leviers stratégiques. Mon approche combine rigueur analytique et vision globale pour accompagner les entreprises dans leur croissance.
               </p>
               <p>
-                Expert en <strong>ERP (Sage 100, X3)</strong> et en outils de Business Intelligence, je mets en place des systèmes de reporting fluides qui permettent une prise de décision basée sur des données fiables et en temps réel.
+                Bonne maîtrise des ERP tels que <strong> (Sage 100, X3)</strong> avec des bases en outils de Business Intelligence, je mets en place des systèmes de reporting fluides qui permettent une prise de décision basée sur des données fiables et en temps réel.
               </p>
               <p>
                 Mon parcours est marqué par une volonté constante d'amélioration continue et d'optimisation des ressources, garantissant une rentabilité durable et une gestion saine des risques.

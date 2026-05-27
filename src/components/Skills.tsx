@@ -3,11 +3,11 @@ import { motion } from 'framer-motion';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, ResponsiveContainer } from 'recharts';
 
 const skills = [
-  { name: 'Excel Avancé', level: 90 },
-  { name: 'Sage 100', level: 80 },
-  { name: 'ERP X3', level: 85 },
-  { name: 'PowerPoint', level: 85 },
-  { name: 'Financial Analysis', level: 90 },
+  { name: 'Excel Avancé', level: 75 },
+  { name: 'Sage 100', level: 65 },
+  { name: 'ERP X3', level: 70 },
+  { name: 'PowerPoint', level: 70 },
+  { name: 'Financial Analysis', level: 75 },
 ];
 
 const radarData = skills.map(s => ({ subject: s.name, A: s.level, fullMark: 100 }));
