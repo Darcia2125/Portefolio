@@ -16,7 +16,7 @@ const experiences = [
     ]
   },
   {
-    company: "VESEO",
+    company: "VISEO",
     role: "Stage perfectionnement contrôle de gestion",
     period: "Janvier 2023 – Avril 2023",
     location: "Antananarivo",
