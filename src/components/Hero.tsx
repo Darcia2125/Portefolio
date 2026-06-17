@@ -56,7 +56,7 @@ export const Hero: React.FC = () => {
             >
               <h1 className="text-4xl md:text-6xl font-bold mb-4 leading-tight">
                 RANDRIANARIVO <br />
-                <span className="text-gradient-gold">FANOMEZANTSOA CIONIE BRICHARD</span>
+                <span className="text-gradient-gold">FANOMEZANTSOA CIDONIE BRICHARD</span>
               </h1>
               <div className="h-8 mb-6">
                 <p className="text-xl md:text-2xl text-slate-400 font-light italic">
