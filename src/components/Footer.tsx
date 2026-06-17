@@ -37,7 +37,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/5 text-center text-slate-600 text-xs">
-          <p>© {new Date().getFullYear()} RANDRIANARIVO FANOMEZANTSOA CIONIE BRICHARD. Tous droits réservés.</p>
+          <p>© {new Date().getFullYear()} RANDRIANARIVO FANOMEZANTSOA CIDONIE BRICHARD. Tous droits réservés.</p>
           {/*<p className="mt-2">Design & Développement Premium pour Directions Financières.</p> */} 
         </div>
       </div>
